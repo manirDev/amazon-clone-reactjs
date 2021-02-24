@@ -9,3 +9,6 @@ The design is based on Amazon.
 
 # Live Demo
 https://e-clone-c6e20.web.app/
+
+# ScreenShoots
+
